@@ -6,11 +6,9 @@ heading: Our Services
 subheading: From process engineering and prototype development to product
   strategy and market research, bring our expertise to bear on your projects.
 mainpitch:
-  title: Why TechnoPioneer?
-  description: |-
-    
-    sd
-description: sd
+  title: " "
+  description: " "
+description: " "
 intro:
   blurbs:
     - image: /img/noun_1608472_cc.png
@@ -23,7 +21,7 @@ intro:
         PROCESS ENGINEERING
 
         Process documentation, optimization, and even automation; we do it all. We specialize in Salesforce.
-    - image: /img/noun_748483_cc-1-.png
+    - image: /img/noun_748483_cc.png
       text: >
         PRODUCT DEVELOPMENT
 
@@ -39,7 +37,7 @@ intro:
         We can help you grow your innovation pipeline by either promoting internal innovation or building partnerships with startups.
       image: /img/noun_424264_cc.png
   heading: Our Services
-  description: ser
+  description: " "
 main:
   heading: Great coffee with no compromises
   description: >
